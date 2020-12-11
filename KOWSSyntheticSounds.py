@@ -52,7 +52,7 @@ fich = str(newplyd[totch])
 
 finlst = []
 
-for ctr in range(20):
+for ctr in range(30):
  
     sublst = []
 
