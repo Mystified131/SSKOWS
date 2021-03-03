@@ -91,7 +91,7 @@ for x in range(ctr):
     print("Copying")
     elem = finlst[x]
     playlst.append(elem)
-    outstr = 'C:\\Users\\mysti\\Coding\\SSKOWS\\Audio\\radiotrack' + str(x) + '.wav'
+    outstr = 'C:\\Users\\mysti\\Coding\\SSKOWS\\Audio\\radiotrack' + str((x + 1)/100) + '.wav'
     shutil.copy(elem, outstr)
 
 print("")
