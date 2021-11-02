@@ -22,7 +22,7 @@ timer = ("".join(list))
 
 #srchstr = "C:\\Users\\mysti\\Media_Files\\Sounds\\OlderSounds"
 
-srchstr = 'E:\\OriginalAudio\\Songs'
+srchstr = 'G:\\OriginalAudio\\Songs'
 
 contentdat = {}
 
